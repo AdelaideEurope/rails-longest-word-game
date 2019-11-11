@@ -1,0 +1,37 @@
+// Place all the styles related to the games controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+#card-letter {
+  border: 1px solid grey;
+  width: 50px;
+  margin-right: 10px;
+  text-align: center;
+  padding-top: 14px;
+  padding-bottom: 14px;
+  background-color: #3697DB;
+  color: white;
+  font-family: 'Bree Serif', serif;
+  box-shadow: 0px 4px 16px rgba(0,0,0,0.2);
+}
+
+.letters {
+  display: flex;
+}
+
+.container {
+  padding: 50px;
+}
+
+h1 {
+  font-family: 'Roboto', sans-serif;
+}
+
+.form-group {
+  display: block;
+}
+
+
+p {
+  font-family: 'Roboto', sans-serif;
+  font-size: 16px;
+}
